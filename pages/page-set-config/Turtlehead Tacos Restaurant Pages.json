@@ -104,27 +104,6 @@
             {
               "ExternalEntityId": "",
               "InputType": "",
-              "Sink": "announcementText",
-              "StringValue": "Announcement Bar Text"
-            },
-            {
-              "ExternalEntityId": "",
-              "InputType": "",
-              "Sink": "announcementUrl",
-              "StringValue": "#"
-            }
-          ],
-          "DefaultScss": ".module-announcement-bar {\n\tpadding: 0;\n}\n\n.module-announcement-bar a {\n\tflex-grow: 1;\n\ttext-align: center;\n\tpadding: 7px 5px;\n}\n\n// Override the background color below\n.module-announcement-bar .btn {\n    // background-color: gray;\n\tborder-radius: 0px;\n\tword-wrap: break-word;\n\twhite-space: normal;\n\tborder: 0px;\n\tmargin: 0px;\n\tbox-shadow: none;\n}",
-          "Js": "",
-          "ListParamEntries": [],
-          "ModuleId": "HJ73-GF7AS",
-          "Scss": ".module-announcement-bar {\n\tpadding: 0;\n}\n\n.module-announcement-bar a {\n\tflex-grow: 1;\n\ttext-align: center;\n\tpadding: 7px 5px;\n}\n\n// Override the background color below\n.module-announcement-bar .btn {\n    // background-color: gray;\n\tborder-radius: 0px;\n\tword-wrap: break-word;\n\twhite-space: normal;\n\tborder: 0px;\n\tmargin: 0px;\n\tbox-shadow: none;\n}"
-        },
-        {
-          "ContentMapEntries": [
-            {
-              "ExternalEntityId": "",
-              "InputType": "",
               "SelectedField": [
                 "name"
               ],
@@ -762,12 +741,6 @@
         "Id": "9ucNAG7F2V",
         "Module": "nav_bar",
         "Version": 19
-      },
-      {
-        "DisplayNameOverride": "",
-        "Id": "HJ73-GF7AS",
-        "Module": "announcement_bar_2",
-        "Version": 12
       },
       {
         "DisplayNameOverride": "",
